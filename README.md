@@ -1,0 +1,2 @@
+# GIF-CAT-CREATOR
+A CAT GIF GENERATOR. Using giphy API.
